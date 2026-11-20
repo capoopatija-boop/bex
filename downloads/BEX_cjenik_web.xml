@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cjenik valuta="EUR" datum_bazne_cijene="2026-09-10">
+  <obrt>
+    <naziv>BEX obrt za usluge</naziv>
+    <vlasnik>Bekim Kaqandolli</vlasnik>
+    <adresa>Stubište Lipovica 3, 51410 Opatija</adresa>
+    <oib>36219517898</oib>
+    <telefon>+385 91 306 99 99</telefon>
+    <email>autopraonabex@gmail.com</email>
+  </obrt>
+  <napomena_pdv>PDV nije obračunat sukladno članku 90. stavku 1. Zakona o porezu na dodanu vrijednost (mali porezni obveznik).</napomena_pdv>
+  <usluge>
+    <usluga id="1"><naziv>DOLAZAK PO AUTO</naziv><cijena_eur>20.00</cijena_eur><bazna_cijena_eur>20.00</bazna_cijena_eur></usluga>
+    <usluga id="2"><naziv>PODNO PRANJE VOZILA</naziv><cijena_eur>6.00</cijena_eur><bazna_cijena_eur>6.00</bazna_cijena_eur></usluga>
+    <usluga id="3"><naziv>VANJSKO PRANJE AUTA MALI</naziv><cijena_eur>12.00</cijena_eur><bazna_cijena_eur>12.00</bazna_cijena_eur></usluga>
+    <usluga id="4"><naziv>VANJSKO PRANJE AUTA SREDNJI</naziv><cijena_eur>13.00</cijena_eur><bazna_cijena_eur>13.00</bazna_cijena_eur></usluga>
+    <usluga id="5"><naziv>VANJSKO PRANJE AUTA VELIKI (SUV/JEEP)</naziv><cijena_eur>15.00</cijena_eur><bazna_cijena_eur>15.00</bazna_cijena_eur></usluga>
+    <usluga id="6"><naziv>KOMPLET PRANJE AUTO MALI</naziv><cijena_eur>25.00</cijena_eur><bazna_cijena_eur>25.00</bazna_cijena_eur></usluga>
+    <usluga id="7"><naziv>KOMPLET PRANJE AUTO SREDNJI (MONOVOLUMEN/LIMUZINA)</naziv><cijena_eur>27.00</cijena_eur><bazna_cijena_eur>27.00</bazna_cijena_eur></usluga>
+    <usluga id="8"><naziv>KOMPLET PRANJE AUTO VELIKI (SUV/JEEP)</naziv><cijena_eur>33.00</cijena_eur><bazna_cijena_eur>33.00</bazna_cijena_eur></usluga>
+    <usluga id="9"><naziv>KOMPLET PRANJE KOMBI SREDNJI - VANJSKO</naziv><cijena_eur>20.00</cijena_eur><bazna_cijena_eur>20.00</bazna_cijena_eur></usluga>
+    <usluga id="10"><naziv>KOMPLET PRANJE KOMBI SREDNJI - UNUTARNJE</naziv><cijena_eur>25.00</cijena_eur><bazna_cijena_eur>25.00</bazna_cijena_eur></usluga>
+    <usluga id="11"><naziv>KOMPLET PRANJE KOMBI SREDNJI</naziv><cijena_eur>40.00</cijena_eur><bazna_cijena_eur>40.00</bazna_cijena_eur></usluga>
+    <usluga id="12"><naziv>KOMPLET PRANJE KOMBI VELIKI - VANJSKO</naziv><cijena_eur>20.00</cijena_eur><bazna_cijena_eur>20.00</bazna_cijena_eur></usluga>
+    <usluga id="13"><naziv>KOMPLET PRANJE KOMBI VELIKI - UNUTARNJE</naziv><cijena_eur>35.00</cijena_eur><bazna_cijena_eur>35.00</bazna_cijena_eur></usluga>
+    <usluga id="14"><naziv>KOMPLET PRANJE KOMBI VELIKI</naziv><cijena_eur>50.00</cijena_eur><bazna_cijena_eur>50.00</bazna_cijena_eur></usluga>
+    <usluga id="15"><naziv>UNUTARNJE ČIŠĆENJE AUTA MALI ILI SREDNJI</naziv><cijena_eur>20.00</cijena_eur><bazna_cijena_eur>20.00</bazna_cijena_eur></usluga>
+    <usluga id="16"><naziv>EKSTREMNO PRLJAVO VOZILO (PSEĆE DLAKE I SL.)</naziv><cijena_eur>7.00</cijena_eur><bazna_cijena_eur>7.00</bazna_cijena_eur></usluga>
+    <usluga id="17"><naziv>DUBINSKO ČIŠĆENJE SJEDALA (1 kom)</naziv><cijena_eur>30.00</cijena_eur><bazna_cijena_eur>30.00</bazna_cijena_eur></usluga>
+    <usluga id="18"><naziv>DUBINSKO ČIŠĆENJE SJEDALA U AUTU kpl.</naziv><cijena_eur>125.00</cijena_eur><bazna_cijena_eur>125.00</bazna_cijena_eur></usluga>
+    <usluga id="19"><naziv>DUBINSKO ČIŠĆENJE TAPISONA U AUTU 4 kom.</naziv><cijena_eur>15.00</cijena_eur><bazna_cijena_eur>15.00</bazna_cijena_eur></usluga>
+    <usluga id="20"><naziv>DUBINSKO ČIŠĆENJE POD/STROP</naziv><cijena_eur>70.00</cijena_eur><bazna_cijena_eur>70.00</bazna_cijena_eur></usluga>
+    <usluga id="21"><naziv>DUBINSKO ČIŠĆENJE PRTLJAŽNIK</naziv><cijena_eur>20.00</cijena_eur><bazna_cijena_eur>20.00</bazna_cijena_eur></usluga>
+    <usluga id="22"><naziv>ZAŠTITNI PREMAZ KOŽE SJEDALA kpl.</naziv><cijena_eur>80.00</cijena_eur><bazna_cijena_eur>80.00</bazna_cijena_eur></usluga>
+    <usluga id="23"><naziv>DETAILING PRANJE AUTA</naziv><cijena_eur>250.00</cijena_eur><bazna_cijena_eur>250.00</bazna_cijena_eur></usluga>
+    <usluga id="24"><naziv>DETAILING PRANJE KABINE KAMIONA</naziv><cijena_eur>300.00</cijena_eur><bazna_cijena_eur>300.00</bazna_cijena_eur></usluga>
+    <usluga id="25"><naziv>PRANJE KUĆNIH TEPIHA (MANJI) KOM</naziv><cijena_eur>20.00</cijena_eur><bazna_cijena_eur>20.00</bazna_cijena_eur></usluga>
+    <usluga id="26"><naziv>PRANJE KUĆNIH TEPIHA (SREDNJI) KOM</naziv><cijena_eur>40.00</cijena_eur><bazna_cijena_eur>40.00</bazna_cijena_eur></usluga>
+    <usluga id="27"><naziv>PRANJE TEPIHA (m²)</naziv><cijena_eur>7.00</cijena_eur><bazna_cijena_eur>7.00</bazna_cijena_eur></usluga>
+    <usluga id="28"><naziv>PRANJE MOTORKOTAČA</naziv><cijena_eur>15.00</cijena_eur><bazna_cijena_eur>15.00</bazna_cijena_eur></usluga>
+    <usluga id="29"><naziv>PRANJE MOTORNOG PROSTORA</naziv><cijena_eur>30.00</cijena_eur><bazna_cijena_eur>30.00</bazna_cijena_eur></usluga>
+    <usluga id="30"><naziv>SKIDANJE NALJEPNICA / VINJETA</naziv><cijena_eur>1.00</cijena_eur><bazna_cijena_eur>1.00</bazna_cijena_eur></usluga>
+  </usluge>
+</cjenik>
